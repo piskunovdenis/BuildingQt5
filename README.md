@@ -24,7 +24,7 @@ C:\
 
 ## Prerequisites
 1. Visual Studio 2017
-    1. download and install
+    1. download and install Visual Studio
 2. Qt
     1. download ```qt-everywhere-src-5.14.2.zip``` from https://account.qt.io/downloads ```(Qt Source Package, Full Framework with Windows style line endings)```
     2. extract ```qt-everywhere-src-5.14.2.zip``` to ```C:\Qt\5.14.2\Src.x64``` for x64 architecture
