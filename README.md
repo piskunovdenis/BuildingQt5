@@ -53,5 +53,5 @@ C:\
 
 ## Build
 1. copy ```build.bat``` to ```C:\Qt```
-2. run ```build.bat x64``` to build a 32-bit version
-3. run ```build.bat x86``` to build a 64-bit version
+2. run ```build x64``` to build a 32-bit version
+3. run ```build x86``` to build a 64-bit version
